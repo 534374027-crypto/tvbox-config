@@ -1,0 +1,19 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "ff",
+      "name": "非凡影视",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "ads": []
+}
