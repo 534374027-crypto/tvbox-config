@@ -1,0 +1,3 @@
+量子测试,https://v.lzcdn27.com/20261021/19809_11041a43/index.m3u8
+红牛测试,https://hn.bfvvs.com/play/pen5Q0pd/index.m3u8
+公网测试,https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
